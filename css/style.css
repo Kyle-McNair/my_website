@@ -12,6 +12,10 @@ p{
   color: #ffffd8;
   background-color: rgba(255,255,216, 0.3);
 }
+
+i{
+  color: #ffffd8;
+}
 body{
   background-color: black
 }
